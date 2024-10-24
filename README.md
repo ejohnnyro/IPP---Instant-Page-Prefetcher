@@ -24,6 +24,11 @@ The plugin provides both backend and frontend controls for implementing the Inst
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Configure the plugin settings under **Settings > Instant Page Prefetcher**.
 
+## Very simple settings
+
+![ipp settings](https://github.com/user-attachments/assets/f2baa45a-5449-41db-8759-18b77f83be79)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
@@ -36,4 +41,4 @@ This plugin is licensed under the GNU General Public License v2.0. See the [LICE
 
 ### Contact
 
-For any questions, feel free to contact [Ioan Mihai](https://idh.ro).
+For any questions, feel free to contact [Ioan Mihai]([https://idh.ro](https://idh.ro/ipp-plugin/)).
